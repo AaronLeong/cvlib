@@ -1,7 +1,7 @@
 build/
 .vscode/
 dist/
-torchvision.egg-info/
+cvlib.egg-info/
 */**/__pycache__
 */**/*.pyc
 */**/*~

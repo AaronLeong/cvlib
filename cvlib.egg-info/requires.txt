@@ -1,5 +1,0 @@
-numpy
-six
-torch
-pillow>=4.1.1
-tqdm
