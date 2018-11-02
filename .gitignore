@@ -1,4 +1,5 @@
 build/
+.vscode/
 dist/
 torchvision.egg-info/
 */**/__pycache__
